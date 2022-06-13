@@ -3,10 +3,10 @@
 
 # Requirements Specification:
 
-## Software Requirements:
-#### HTML/CSS #### Bootstrap #### JavaScript #### jQuery
-#### NodeJS #### ExpressJS #### Embedded C++
+## Software Requirements :
+#### HTML/CSS , Bootstrap , JavaScript , jQuery
+#### NodeJS , ExpressJS , Embedded C++
 
-## Hardware Requirements:
-#### Arduino UNO R3 #### IR Proximity Sensor
-#### Servo Motor #### Breadboard #### Jumper Wires
+## Hardware Requirements :
+#### Arduino UNO R3 , IR Proximity Sensor
+#### Servo Motor , Breadboard , Jumper Wires
